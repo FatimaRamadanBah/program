@@ -19,7 +19,7 @@ def input_non_empty(prompt):
 # ----------- NEW LOGIN FLOW -----------
 def login_prompt():
     print("\n==============================")
-    print("  WELCOME TO THE LIBRARY HUB  ")
+    print("  WELCOME TO THE FATIMA LIBRARY HUB  ")
     print("==============================")
     print("Who is logging in?")
     print("1) Admin")
@@ -223,3 +223,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
